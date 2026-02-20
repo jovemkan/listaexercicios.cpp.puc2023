@@ -1,24 +1,40 @@
-🚀 Primeiros Passos em C++ (PUC-GO 2023)
-Este repositório contém uma coleção de exercícios desenvolvidos durante o meu primeiro período no curso de Ciência da Computação/Engenharia na PUC - GO, no primeiro semestre de 2023.
+<h1 align="center">🚀 Primeiros Passos em C++ (PUC-GO 2023)</h1>
 
-📌 Sobre o Projeto
-O objetivo deste repositório é puramente histórico e educativo. Ele serve como um "registro de evolução", documentando meu primeiro contato com a linguagem C++ e com a lógica de programação.
+<p align="center">
+  <strong>Um registro da minha evolução na programação desde o primeiro dia.</strong>
+</p>
 
-Nota: Devido a uma perda de arquivos locais, os enunciados originais em PDF não estão mais disponíveis. No entanto, a lógica dos algoritmos reflete os desafios clássicos de introdução à programação (Estruturas de decisão, repetição, vetores, etc).
+---
 
-📈 Por que manter este código "desorganizado"?
-Decidi publicar esses arquivos exatamente como foram escritos na época por alguns motivos:
+## 📌 Sobre o Projeto
+Este repositório contém uma coleção de exercícios desenvolvidos durante o meu primeiro período no curso na **PUC - GO**, no primeiro semestre de 2023. 
 
-Acompanhamento de Evolução: Para comparar como eu estruturava o pensamento em 2023 versus como trabalho hoje.
+O intuito de manter este código público é documentar meu **primeiro contato** com a linguagem **C++** e com a lógica de programação, servindo como um "arquivo histórico" do meu aprendizado.
 
-Transparência: Mostrar que ninguém começa sabendo boas práticas como Clean Code ou padrões de projeto.
+> [!IMPORTANT]
+> Infelizmente, os arquivos PDF com os enunciados originais foram perdidos. No entanto, os códigos refletem os desafios clássicos de introdução à computação (Estruturas de decisão, repetição e manipulação de dados).
 
-Nostalgia Técnica: Relembrar os primeiros erros de sintaxe e os primeiros "Hello World" que funcionaram.
+---
 
-🛠️ Tecnologias Utilizadas
-Linguagem: C++
+## 📈 Por que manter este código?
+Decidi publicar esses arquivos exatamente como foram escritos na época (com seus erros e desorganizações) para:
+* **Visualizar a Evolução:** Comparar como eu estruturava o pensamento em 2023 versus as boas práticas que utilizo hoje.
+* **Transparência:** Mostrar que a jornada na tecnologia é feita de aprendizado contínuo. Ninguém começa escrevendo código perfeito.
+* **Aprimoramento:** Identificar vícios de linguagem que fui corrigindo com o passar dos anos.
 
-Ambiente de Estudo: IDEs variadas/Compiladores GCC.
+---
 
-📂 Como navegar
-Como os enunciados foram perdidos, os arquivos estão nomeados conforme a ordem das listas de exercícios da disciplina. Sinta-se à vontade para explorar a "bagunça" criativa do meu início na tecnologia!
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagem:** C++
+* **Instituição:** Pontifícia Universidade Católica de Goiás (PUC-GO)
+* **Ano:** 2023
+
+---
+
+## 📂 Organização
+Como os enunciados foram perdidos, os arquivos estão organizados pela numeração das listas da época. Sinta-se à vontade para explorar a lógica básica do meu início na tecnologia!
+
+---
+<p align="center">
+  Desenvolvido por Gabriel (jovemkan) 👋
+</p>
